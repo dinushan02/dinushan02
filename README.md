@@ -36,20 +36,16 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dinushan02&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushan02&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinushan02&hide_border=true" alt="streak stats"/>
-</p>
-
----
-
 ### 📌 Featured Projects
+
+**[number-guessing-game](https://github.com/dinushan02/number-guessing-game)**
+My Python Project 1.
+
+**[todo-list-cli-python](https://github.com/dinushan02/todo-list-cli-python)**
+My Python Project 2.
+
+**[password-generator-cli-python](https://github.com/dinushan02/password-generator-cli-python)**
+My Python Project 3.
 
 **[My_All_Python_Projects](https://github.com/dinushan02/My_All_Python_Projects)**
 A complete collection of Python projects from beginner to advanced — documenting my journey toward becoming a professional Python Developer and AI Engineer.
