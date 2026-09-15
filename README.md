@@ -39,19 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinushan02&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinushan02&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushan02&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📚 Currently Learning
 
 - Data Structures & Algorithms (Python)
@@ -63,11 +50,20 @@
 
 ### 📌 Featured Projects
 
-**[My_All_Python_Projects](https://github.com/dinushan02/My_All_Python_Projects)**
-A complete collection of Python projects from beginner to advanced — documenting my journey toward becoming a professional Python developer.
+**[CodeAlpha_Python_Internship](https://github.com/dinushan02/CodeAlpha_Python_Internship)**
+Projects completed during my Python Programming Virtual Internship at CodeAlpha.
 
-**[flask-projects](https://github.com/dinushan02/flask-projects)**
-Flask projects built to learn backend web development.
+**[python-developer-problem-solving](https://github.com/dinushan02/python-developer-problem-solving)**
+Problem-solving practice focused on building strong Python developer fundamentals.
+
+**[python-problem-solving-journey](https://github.com/dinushan02/python-problem-solving-journey)**
+An ongoing log of my Python problem-solving journey and skill progression.
+
+**[daily-python-coding-challenges](https://github.com/dinushan02/daily-python-coding-challenges)**
+Daily Python challenges to build consistency and sharpen problem-solving.
+
+**[Python-Pattern-Programs](https://github.com/dinushan02/Python-Pattern-Programs)**
+18 Python pattern programs — stars, numbers, pyramids, diamonds, and butterflies — built to sharpen loop logic.
 
 **[number-guessing-game](https://github.com/dinushan02/number-guessing-game)**
 A Python number guessing game built to practice logic and control flow.
@@ -78,11 +74,8 @@ A command-line to-do list application built in Python.
 **[password-generator-cli-python](https://github.com/dinushan02/password-generator-cli-python)**
 A CLI tool for generating secure, random passwords in Python.
 
-**[Python-Pattern-Programs](https://github.com/dinushan02/Python-Pattern-Programs)**
-18 Python pattern programs — stars, numbers, pyramids, diamonds, and butterflies — built to sharpen loop logic.
-
-**[daily-python-coding-challenges](https://github.com/dinushan02/daily-python-coding-challenges)**
-Daily Python challenges to build consistency and problem-solving skill.
+**[javascript-journey](https://github.com/dinushan02/javascript-journey)**
+Documenting my progress learning JavaScript fundamentals.
 
 ---
 
