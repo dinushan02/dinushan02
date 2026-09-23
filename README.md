@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinushan</h1>
-<h3 align="center">Python Developer in Progress 🚀 | Backend Development | HND Software Engineering Student</h3>
+<h3 align="center">Python Developer in Progress 🚀 | Backend Development | Building Real-World Software Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress+%F0%9F%9A%80;Backend+Development+%26+DSA;HND+Computing+%26+Software+Engineering+Student;Building+Real-World+Python+Projects" alt="Typing SVG" />
