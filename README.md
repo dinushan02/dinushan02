@@ -14,7 +14,6 @@
 
 ### 🚀 About Me
 
-- 🎓 HND in Computing (Software Engineering) student
 - 🐍 Focused on Python, Backend Development, and Data Structures & Algorithms
 - 🧠 CodeAlpha Python Programming Internship alumnus (Aug 2026)
 - 🎯 Goal: become a backend/software engineer who builds reliable, efficient, real-world applications
