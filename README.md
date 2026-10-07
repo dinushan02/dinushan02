@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dinushan</h1>
-<h3 align="center">Python Developer in Progress 🚀 | Backend Development | Building Real-World Software Solutions</h3>
+<h3 align="center">Aspiring Python Developer 🚀 | Python Development Intern | Backend Development & DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress+%F0%9F%9A%80;Backend+Development+%26+DSA;HND+Computing+%26+Software+Engineering+Student;Building+Real-World+Python+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=650&lines=Aspiring+Python+Developer+%F0%9F%90%8D;Python+Development+Intern+%F0%9F%9A%80;Backend+Development+%26+DSA;Building+Real-World+Python+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/murugamoorthydinushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/murugamoorthydinushan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -15,9 +19,11 @@
 ### 🚀 About Me
 
 - 🐍 Focused on Python, Backend Development, and Data Structures & Algorithms
-- 🧠 CodeAlpha Python Programming Internship alumnus (Aug 2026)
-- 🎯 Goal: become a backend/software engineer who builds reliable, efficient, real-world applications
-- 🤝 Open to connecting with students, developers, and professionals in Python & Software Engineering
+- 💼 Currently working as a Python Development Intern
+- 🚀 Building real-world Python and backend projects
+- 🧠 Continuously improving my problem-solving and software development skills
+- 🎯 Goal: Become a strong Backend/Software Engineer who builds reliable, efficient, real-world applications
+- 🤝 Open to connecting with developers, engineers, and professionals in Python & Software Engineering
 - 📫 Reach me on LinkedIn — link above
 
 ---
@@ -40,40 +46,44 @@
 
 ### 📚 Currently Learning
 
-- Data Structures & Algorithms (Python)
+- Data Structures & Algorithms with Python
 - Advanced Python Programming
+- Object-Oriented Programming with Python
+- Backend Development with Flask
+- REST APIs
+- SQL & Database Fundamentals
 - Software Engineering Practices
-- Backend Development Fundamentals
+- Problem Solving & Competitive Programming
 
 ---
 
 ### 📌 Featured Projects
 
-**[CodeAlpha_Python_Internship](https://github.com/dinushan02/CodeAlpha_Python_Internship)**
+**[CodeAlpha_Python_Internship](https://github.com/dinushan02/CodeAlpha_Python_Internship)**  
 Projects completed during my Python Programming Virtual Internship at CodeAlpha.
 
-**[python-developer-problem-solving](https://github.com/dinushan02/python-developer-problem-solving)**
+**[python-developer-problem-solving](https://github.com/dinushan02/python-developer-problem-solving)**  
 Problem-solving practice focused on building strong Python developer fundamentals.
 
-**[python-problem-solving-journey](https://github.com/dinushan02/python-problem-solving-journey)**
+**[python-problem-solving-journey](https://github.com/dinushan02/python-problem-solving-journey)**  
 An ongoing log of my Python problem-solving journey and skill progression.
 
-**[daily-python-coding-challenges](https://github.com/dinushan02/daily-python-coding-challenges)**
+**[daily-python-coding-challenges](https://github.com/dinushan02/daily-python-coding-challenges)**  
 Daily Python challenges to build consistency and sharpen problem-solving.
 
-**[Python-Pattern-Programs](https://github.com/dinushan02/Python-Pattern-Programs)**
+**[Python-Pattern-Programs](https://github.com/dinushan02/Python-Pattern-Programs)**  
 18 Python pattern programs — stars, numbers, pyramids, diamonds, and butterflies — built to sharpen loop logic.
 
-**[number-guessing-game](https://github.com/dinushan02/number-guessing-game)**
+**[number-guessing-game](https://github.com/dinushan02/number-guessing-game)**  
 A Python number guessing game built to practice logic and control flow.
 
-**[todo-list-cli-python](https://github.com/dinushan02/todo-list-cli-python)**
+**[todo-list-cli-python](https://github.com/dinushan02/todo-list-cli-python)**  
 A command-line to-do list application built in Python.
 
-**[password-generator-cli-python](https://github.com/dinushan02/password-generator-cli-python)**
+**[password-generator-cli-python](https://github.com/dinushan02/password-generator-cli-python)**  
 A CLI tool for generating secure, random passwords in Python.
 
-**[javascript-journey](https://github.com/dinushan02/javascript-journey)**
+**[javascript-journey](https://github.com/dinushan02/javascript-journey)**  
 Documenting my progress learning JavaScript fundamentals.
 
 ---
@@ -82,4 +92,6 @@ Documenting my progress learning JavaScript fundamentals.
   <img src="https://komarev.com/ghpvc/?username=dinushan02&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repos.</i></p>
+<p align="center">
+  <i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i>
+</p>
