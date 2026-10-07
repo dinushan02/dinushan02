@@ -145,16 +145,6 @@ Dinushan.say_hi()
   </picture>
 </div>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dinushan02&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
-</div>
-
-<br/>
-
 <div align="center">
   <i>⭐ Thanks for stopping by! Feel free to explore my repositories.</i>
 </div>
