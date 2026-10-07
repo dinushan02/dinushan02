@@ -60,10 +60,6 @@ Dinushan.say_hi()
   <img src="https://streak-stats.demolab.com?user=dinushan02&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinushan02&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="activity graph"/>
-</div>
-
 ---
 
 ## 📌 Featured Projects
